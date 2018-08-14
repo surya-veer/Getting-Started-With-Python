@@ -1,4 +1,4 @@
-# Learn-Python
+# Getting Started With Python 
 Python is one of the simplest programming languages which is both simple and powerful. Python is extremely easy to get started with. This is the best programming language for beginners and hobbyist those who don't have much prior knowledge of programming. It has unlimited libraries for different use cases like development, building games, different applications, data-science and AI and Machine Learning. <br>
 
 This repository contains different useful resources for python that you can use.
