@@ -14,6 +14,7 @@ This repository contains different useful resources for python that you can use.
 
 ## Installation guide and IDE
   * Installation - For all operating systems - [Article](https://realpython.com/installing-python/) and [video](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_&index=1)<br>
+  * Installing jupyter [guide](https://jupyter.readthedocs.io/en/latest/install.html)
   * Choosing best IDE according to use 
     - General - Any text editor like [Sublime](https://www.sublimetext.com/), [Atom](https://atom.io/packages/ide-python) ,Python's default editor
     - Web development with python - [Pycharm](https://www.jetbrains.com/pycharm/) [Download community version]
